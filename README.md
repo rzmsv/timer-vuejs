@@ -1,4 +1,9 @@
-# one
+# Timer App
+
+in this app you can use timer.
+
+
+# Usage
 
 ## Project setup
 ```
